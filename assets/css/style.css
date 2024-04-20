@@ -143,7 +143,7 @@ section.events .event_update .event {
   width: 20%;
   background: #23353E;
   position: relative;
-  height: 97.3vh;
+  height: 92.7vh;
 }
 section.events .event_update .event .line {
   width: 77px;
@@ -163,7 +163,7 @@ section.events .event_update .update {
 section.events .event_update .update .video_box::before {
   content: "";
   width: 80%;
-  height: 99.1%;
+  height: 100%;
   background: rgba(0, 2, 215, 0.4);
   position: absolute;
 }
